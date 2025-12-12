@@ -1,0 +1,5 @@
+pandas
+duckduckgo-search
+langchain-community
+streamlit
+lightgbm
