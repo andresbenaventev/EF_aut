@@ -1,5 +1,6 @@
 pandas
 duckduckgo-search
+ddgs
 langchain-community
 streamlit
 lightgbm
@@ -8,3 +9,4 @@ transformers
 accelerate
 bitsandbytes
 scipy
+sentencepiece
