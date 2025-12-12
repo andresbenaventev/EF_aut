@@ -3,3 +3,8 @@ duckduckgo-search
 langchain-community
 streamlit
 lightgbm
+torch
+transformers
+accelerate
+bitsandbytes
+scipy
